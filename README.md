@@ -4,58 +4,6 @@
 
  um sistema em Java para envio de lotes contábeis para o sistema Nasajon. Este aplicativo desktop terá interfaces para gerenciar o envio de dados contábeis em lote.
 
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/Main.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/ui/LoginScreen.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/ui/MainScreen.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/ui/DashboardPanel.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/ui/NovoLotePanel.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/ui/ConsultaLotesPanel.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/ui/ConfiguracaoPanel.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/ui/DetalhesLoteDialog.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/model/Usuario.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/model/Lote.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/service/AutenticacaoService.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/service/LoteService.java"
-...
-```
-
-```java project="SistemaNasajon" file="src/main/java/com/contabilidade/service/ConfiguracaoService.java"
-...
-```
-
 ## Explicação do Sistema
 
 Este sistema de envio de lotes contábeis para o Nasajon foi desenvolvido em Java utilizando a biblioteca Swing para a interface gráfica. O sistema permite:
